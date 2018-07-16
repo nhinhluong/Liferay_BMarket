@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="29px" viewBox="0 0 28 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>368E7746-D055-42F2-A3BB-9A7C8A5D3AAE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="10.3851112 20.0895915 6.80630968 16.4449224 3.22750814 20.0895915 3.22750814 10.1216412 10.3851112 10.1216412"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.125452899 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="6.80630968" cy="6.82826552" rx="6.74044217" ry="6.74044217"></ellipse>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.122254303 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-753.000000, -114.000000)">
+            <g id="ic_exclusive" transform="translate(753.000000, 114.000000)">
+                <g id="Layer_1">
+                    <g id="Group">
+                        <circle id="Oval" fill="#FFFFFF" cx="14" cy="14" r="14"></circle>
+                        <g transform="translate(6.850000, 3.672222)">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#D94E37" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#FFC62C" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <circle id="Oval" fill="#FFD000" cx="6.80630968" cy="6.82826552" r="5.64199083"></circle>
+                            <polygon id="Shape" fill="#FFFFFF" points="6.80630968 2.7834649 8.05562381 5.33108587 10.8482083 5.74752392 8.83950719 7.70723236 9.30493794 10.4998169 6.80630968 9.1770137 4.30768141 10.4998169 4.77311217 7.70723236 2.76441101 5.74752392 5.55699555 5.33108587"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

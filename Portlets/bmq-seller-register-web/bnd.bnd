@@ -1,0 +1,4 @@
+Bundle-Name: bmq-seller-register-web
+Bundle-SymbolicName: bmq.seller.register.web
+Bundle-Version: 1.0.0
+Export-Package: bmq.seller.register.web.constants

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE layout-templates PUBLIC "-//Liferay//DTD Layout Templates 7.0.0//EN" "http://www.liferay.com/dtd/liferay-layout-templates_7_0_0.dtd">
+
+<layout-templates>
+	<custom>
+		<layout-template id="bmqlayout" name="bmqlayout">
+			<template-path>/bmqlayout.tpl</template-path>
+			<thumbnail-path>/bmqlayout.png</thumbnail-path>
+		</layout-template>
+	</custom>
+</layout-templates>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>75B55DE0-DF2D-4CC1-A935-838929AF25D6</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.117272418 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-450.000000, -114.000000)">
+            <g id="ic_return" transform="translate(450.000000, 114.000000)">
+                <g id="Layer_1">
+                    <g id="Group">
+                        <ellipse id="Oval" fill="#FFFFFF" cx="14" cy="14" rx="13.5" ry="13.5"></ellipse>
+                        <g filter="url(#filter-1)" transform="translate(6.800000, 6.500000)">
+                            <g>
+                                <rect id="Rectangle-path" fill="#FFBB34" x="0.13395" y="2.62365" width="14.13225" height="12.37605"></rect>
+                                <polygon id="Shape" fill="#D18B00" points="12.89415 0 1.5057 0 0.13395 2.62365 14.26605 2.62365"></polygon>
+                                <polygon id="Shape" fill="#FFFFFF" points="8.6727 2.62365 5.72715 2.62365 5.72368828 4.53492612 8.66923828 4.53927612"></polygon>
+                                <polygon id="Shape" fill="#EFEFEF" points="8.1243 0 6.2754 0 5.72715 2.62365 8.6727 2.62365"></polygon>
+                                <polygon id="Shape" fill="#EFEFEF" points="13.78995 1.7127 0.60975 1.7127 1.0299 0.91215 13.37025 0.91215"></polygon>
+                            </g>
+                            <path d="M10.4814,7.82355 C9.9198,7.2612 9.17235,6.95235 8.3775,6.95235 L6.32535,6.95235 L6.32535,6.0828 L3.6666,7.5723 L6.32535,9.0576 L6.32535,8.1924 L8.3775,8.1924 C8.8413,8.1924 9.27705,8.37225 9.60525,8.70015 C9.933,9.02805 10.11345,9.46395 10.11345,9.927 C10.11345,10.39095 9.933,10.82715 9.60525,11.15415 C9.27705,11.48235 8.8413,11.66295 8.3775,11.66295 L3.6666,11.66295 L3.6666,12.90225 L8.37735,12.90225 C9.17235,12.90225 9.91965,12.59325 10.48125,12.03165 C11.04315,11.46915 11.3526,10.72185 11.3526,9.92715 C11.35275,9.13275 11.0433,8.3865 10.4814,7.82355 Z" id="Shape" fill="#4F4F4F"></path>
+                            <path d="M10.4814,7.82355 C9.9198,7.2612 9.17235,6.95235 8.3775,6.95235 L6.32535,6.95235 L6.32535,6.0828 L3.6666,7.5723 L6.32535,7.5723 L8.34975,7.5723 C8.9784,7.5723 9.57015,7.81725 10.0158,8.26215 C10.4604,8.70705 10.7052,9.29865 10.7052,9.92715 C10.7052,10.55625 10.4604,11.14845 10.0158,11.59305 C9.57,12.0375 8.9784,12.28335 8.34975,12.28335 L6.32535,12.28335 L3.6666,12.28335 L3.6666,12.90225 L6.32535,12.90225 L8.3775,12.90225 C9.1725,12.90225 9.9198,12.59325 10.4814,12.03165 C11.0433,11.46915 11.35275,10.72185 11.35275,9.92715 C11.35275,9.13275 11.0433,8.3865 10.4814,7.82355 Z" id="Shape" fill="#4F4F4F"></path>
+                            <polygon id="Shape" fill="#F2A612" points="13.52265 2.62365 13.52265 14.25615 0.13395 14.25615 0.13395 14.9997 14.26605 14.9997 14.26605 2.62365"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
